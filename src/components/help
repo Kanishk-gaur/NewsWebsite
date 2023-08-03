@@ -7,3 +7,4 @@
 <Route path="/technology"> <News pagesize={5} country="in" category="science"/></Route>
 
 <Route path="/"> <News pagesize={5} country="in" category="science"/></Route>
+5acb7e998460498180951be99b95a033
