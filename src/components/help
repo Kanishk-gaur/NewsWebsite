@@ -1,7 +1,9 @@
-business
-entertainment
-general
-health
-science
-sports
-technology
+<Route path="/business"> <News pagesize={5} country="in" category="science"/></Route>
+<Route path="/entertainment"> <News pagesize={5} country="in" category="science"/></Route>
+<Route path="/general"> <News pagesize={5} country="in" category="science"/></Route>
+<Route path="/health"> <News pagesize={5} country="in" category="science"/></Route>
+<Route path="/science"> <News pagesize={5} country="in" category="science"/></Route>
+<Route path="/sports"> <News pagesize={5} country="in" category="science"/></Route>
+<Route path="/technology"> <News pagesize={5} country="in" category="science"/></Route>
+
+<Route path="/"> <News pagesize={5} country="in" category="science"/></Route>
